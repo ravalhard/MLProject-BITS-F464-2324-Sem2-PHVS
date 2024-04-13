@@ -24,3 +24,11 @@ How should you do the train/valid/test splits? etc.
 best model.
 3. Comment on the performance of linear models, decision trees and neural networks for time series.
 Can you identify where the errors in these models are coming from? and propose a solution?
+
+**Problem Statement:**
+
+**Methodology :**
+
+**EXperimental Results and Validaton :**
+
+**Conclusions and Future Work :-**
