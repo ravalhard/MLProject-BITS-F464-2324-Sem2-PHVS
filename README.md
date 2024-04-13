@@ -25,10 +25,10 @@ best model.
 3. Comment on the performance of linear models, decision trees and neural networks for time series.
 Can you identify where the errors in these models are coming from? and propose a solution?
 
-**Problem Statement:**
+# Problem Statement:
 
-**Methodology :**
+# Methodology :
 
-**EXperimental Results and Validaton :**
+# EXperimental Results and Validaton :
 
-**Conclusions and Future Work :-**
+# Conclusions and Future Work :-
