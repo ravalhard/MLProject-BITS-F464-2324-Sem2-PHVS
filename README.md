@@ -29,6 +29,6 @@ Can you identify where the errors in these models are coming from? and propose a
 
 # Methodology :
 
-# EXperimental Results and Validaton :
+# Experimental Results and Validaton :
 
 # Conclusions and Future Work :-
