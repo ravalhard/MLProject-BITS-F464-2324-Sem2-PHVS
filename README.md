@@ -1,7 +1,7 @@
 # MLProject-BITS-F464-2324-Sem2-PHVS
 
 **BITS F464 Machine Learning Project**
-**Instructors :** Aditya Challa and Ashwin Srinivisan
+**Instructors :** Dr.Aditya Challa and Dr.Ashwin Srinivisan
 
 **Team Members :-**
 1. Vaibhav Jain [2021A7PS2389G]
